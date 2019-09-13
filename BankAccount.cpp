@@ -76,7 +76,7 @@ public:
          cout<<"\nAccount's ID : "<<id;
          cout<<"\nAccount's balance : "<<balance;
          WithdrawOrDeposit();
-         cout<<"\nAccount's new balance : "<<newbalance();
+         cout<<"\nAccount's new balance test: "<<newbalance();
     }
 };
 main()
